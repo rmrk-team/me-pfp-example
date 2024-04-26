@@ -25,9 +25,6 @@ import {
 import {
     RMRKEmotesRepository
 } from "@rmrk-team/evm-contracts/contracts/RMRK/emotable/RMRKEmotesRepository.sol";
-import {
-    RMRKRoyaltiesSplitter
-} from "@rmrk-team/evm-contracts/contracts/implementations/utils/RMRKRoyaltiesSplitter.sol";
 
 // Mock RMRK Registry to expose addExternalCollection function.
 contract MockRMRKRegistry {

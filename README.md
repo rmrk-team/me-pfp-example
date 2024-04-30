@@ -1,3 +1,5 @@
+![ME Banner.](https://singular.app/_next/image?url=https%3A%2F%2Fipfs2.rmrk.link%2Fipfs%2FQmZYMd23McMpoJuhwjfmAsnkgU5pd8DgdRVQkufyBSAfmc&w=3840&q=75)
+
 # Instructions
 
 1. Install packages with `yarn`, `npm i`, `pnpm i` or your favorite package manager. This example uses `pnpm`.

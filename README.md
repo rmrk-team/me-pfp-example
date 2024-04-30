@@ -1,5 +1,11 @@
 ![ME Banner.](https://singular.app/_next/image?url=https%3A%2F%2Fipfs2.rmrk.link%2Fipfs%2FQmZYMd23McMpoJuhwjfmAsnkgU5pd8DgdRVQkufyBSAfmc&w=3840&q=75)
 
+# Description
+
+Set of smart contracts for RMRK.apps ["ME"](https://singular.app/me) collection, a collaborative composable pfps.
+We encourage you to copy, remix, make it your own, and show us what you've built! 
+Here's how 👇 
+
 # Instructions
 
 1. Install packages with `yarn`, `npm i`, `pnpm i` or your favorite package manager. This example uses `pnpm`.
